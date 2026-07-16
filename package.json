@@ -7,3 +7,9 @@
     "test": "node --test ../tests/miniprogram/*.test.js"
   }
 }
+{
+  "scripts": {
+    "build": "npx expo export -p web",
+    "deploy": "wrangler deploy"
+  }
+}
