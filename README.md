@@ -29,3 +29,6 @@ This directory contains a WeChat Mini Program plugin for WeKnora. It gives mobil
 cd miniprogram
 npm test
 ```
+git add app.json package.json
+git commit -m "fix: add web platform to expo config and update dependencies"
+git push origin main
