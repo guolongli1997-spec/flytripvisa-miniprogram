@@ -1,0 +1,6 @@
+name = "flytripvisa-miniprogram"
+compatibility_date = "2024-01-01"
+
+# 如果使用 Workers 部署静态文件
+[site]
+bucket = "./dist"
